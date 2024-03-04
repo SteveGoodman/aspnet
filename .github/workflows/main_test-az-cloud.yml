@@ -54,5 +54,5 @@ jobs:
         with:
           app-name: 'theazcloud'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11F1DE1B2D784EDFBD392CA135914BD1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7175DD0B966244B0ACC9806C9EE71668 }}
           package: .
